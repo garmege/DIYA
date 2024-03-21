@@ -1,4 +1,4 @@
-*{margin: 0; padding: 0; box-sizing: border-box;}
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: 'Noto Sans KR', 'Noto Sans SC', '나눔고딕', NanumGothic, '맑은 고딕', MalgunGothic, '돋움', Dotum, sans-serif;}
 body{line-height: 1; font-family: 'Nanum Gothic', sans-serif; font-size:13px;
      font-weight: 400;}
 ul, ol, li{list-style: none;}
